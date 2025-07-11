@@ -21,7 +21,7 @@ A deep learning project that detects brain tumors from MRI images using Convolut
 - Brain MRI Images dataset (can be found on Kaggle or other open medical datasets).
 
 ## 🔧 How to Run
-1. Clone this repository:
+1. Clone this repository: https://github.com/vaibhavi1512/mri_classifier_project
 
 2. Install required libraries:
 pip install -r requirements.txt
